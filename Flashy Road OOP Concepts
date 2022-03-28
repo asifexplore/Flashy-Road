@@ -1,0 +1,18 @@
+Abstract Classes :
+#1 Movement (of Sprites)
+Requires variables of x and y to determine position of objects and the direction.
+Contains abstract methods, getXLoc, getYLoc, SetXLoc, setYLoc, all of which extend into and inherit by the character class (Player 1 and Player 2), as well as the moveable objects (enemies and vehicles)
+#2 Score
+Requires score as a variable. Contains abstract methods, to store and retrieve the score. All methods are inherited by difficulty level and leaderboard.
+
+Interfaces:
+#1 Death
+Has methods deathMessage as well as deathSound when triggered by different death scenarios.
+#2 Sound
+Has methods playMusic and stopMusic, both used extensively by other classes such as Background music and menu or objects.
+
+Polymorphism:
+#1 Randomising Objects
+Calling the obstacles class and generate different random objects that can move and collide with players. file  It will have a image filename String variable. There will be a default constructor object and parameterized constructor. The methods used will be setObject, directionOfObject and randomObject.
+#2 Randomising Terrains
+Calling different terrains and building them in grid form, some terrains have different effect that will override the default terrain.  It will have a image filename String variable. There is a default constructor object and parameterized constructor. The methods use will be setTerrian and randomTerrain.
