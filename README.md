@@ -7,11 +7,11 @@ Multiplayer: Longest to survive crossing through the map will win the game. To w
 
 # Images of Gameplay
 
-![alt text](https://asifexplore.com/img/portfolio/FlashyRoad/home.png)
-![alt text](https://asifexplore.com/img/portfolio/FlashyRoad/menu.png)
-![alt text](https://asifexplore.com/img/portfolio/FlashyRoad/gameplay.png)
-![alt text](https://asifexplore.com/img/portfolio/FlashyRoad/Leaderscreen.png)
-![alt text](https://asifexplore.com/img/portfolio/FlashyRoad/character_art.png)
+![alt text](https://asifexplore.com/github_images/Flashy_Road/home.png)
+![alt text](https://asifexplore.com/github_images/Flashy_Road/menu.png)
+![alt text](https://asifexplore.com/github_images/Flashy_Road/gameplay.png)
+![alt text](https://asifexplore.com/github_images/Flashy_Road/Leaderscreen.png)
+![alt text](https://asifexplore.com/github_images/Flashy_Road/character_art.png)
 
 MoSCow Must Have: Can support up to 2 players Movement / Controls (WASD, Arrow Keys) Scoring System Console/GUI 3 Life or Life Bar (generate back the hp) /Death System Sound Randomly generated Map/Entities Movable and Immovable Objects Game Result Game guide
 
